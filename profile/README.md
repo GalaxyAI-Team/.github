@@ -1,4 +1,4 @@
-# 👋 Hi there, we're [GalaxyAI](https://galaxy.ai)
+# 👋 Hi there, we're [Galaxy.ai](https://galaxy.ai)
 
 ## 🙋‍♀️ On a mission to empower 1 billion people with AI.
 
