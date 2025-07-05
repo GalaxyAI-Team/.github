@@ -11,7 +11,7 @@ This will give developers and teams the building blocks to create their own AI w
 ## 🚀 Our Projects
 
 - **[Workflow](https://workflow.galaxy.ai)**: Visual AI workflow builder – like n8n, but built for chaining LLMs, image models, APIs, and more.  
-  [Contributions welcome](https://github.com/GalaxyAI-Team/workflow)
+  [Contributions welcome](https://github.com/GalaxyAI-Team/workflow.galaxy.ai)
 
 > More open-source projects launching soon. Stay tuned!
 
